@@ -1,0 +1,4 @@
+git checkout --orphan gh-pages
+git commit -a -m "First pages commit"
+git add .
+ git push origin gh-pages
