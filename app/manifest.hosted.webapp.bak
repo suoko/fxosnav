@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "name": "Mapbox Nav",
     "description": "Mapbox Nav",
-    "launch_path": "",
+    "launch_path": "fxosnav/index.html",
     "icons": {
         "16": "/fxosnav/assets/image/icon16.png",
         "48": "/fxosnav/assets/image/icon48.png",
